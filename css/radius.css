@@ -1,0 +1,239 @@
+::-webkit-scrollbar{
+     display:none;
+    }
+    body
+    {
+    background-color:whitesmoke;
+    margin: 0 auto;
+    }
+        #navbar 
+        {
+        background-color:grey;
+        height: 80px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        border-bottom: 1px solid white;
+        }
+        #logo-container 
+        {   
+         width: 300px;
+        float:left;
+        display: flex;
+        justify-content: flex-start;
+        }
+        #logo-container img 
+        {
+        height: 60px;
+        margin-left: 15px;
+        background-color: grey;
+        }
+        #logo-container h2
+        {
+        display:inline-block;
+        color: white;
+        }
+        #profile-container {
+        width:auto;
+        float:right;
+        }
+        #profile-container  img{
+        height:60px;
+        border-radius:50%;
+        }
+        .main
+        {
+        height:100vh;
+        }
+         #container > h2
+        {
+        color:black;
+        margin: 0;
+        text-decoration: underline;
+        height:25px;
+        }
+        #container
+        {
+            width: calc(100vw-200px);
+        }
+        #tile-container
+        {
+            margin-top:35px;
+        }
+        #sidebar
+        {
+            background-color:grey;
+            height:100%;
+            width:150px;
+            float: left;
+        }
+        #tile-container
+        {
+            margin-top: 25 px;
+            display:flex;
+        }
+        #tile-container
+        {
+            margin-bottom: 15px;
+        }
+        .tile
+        {
+            height: 200px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            width:300px;
+        }
+        .green-bg
+        {
+            background-color:lightgreen;
+        }
+        .purple-bg
+        {
+            background-color:#3102af;
+        }
+        .red-bg
+        {
+            background-color: red;
+        }
+        .cyan-bg
+        {
+        background-color: cyan;
+        }
+        .white-bg
+        {
+            background-color: white;
+        }
+        .blue-bg
+        {
+            background-color: rgb(39, 39, 218);
+        }
+        .orange-bg
+        {
+            background-color:rgb(233, 76, 76);
+        }
+        .black-bg
+        {
+            background-color:black;
+        }
+        #tile-container > div
+        {
+            margin-right: 15px;
+            margin-left:15px;
+        }
+        .tile h2
+        {
+
+        }
+        #circle-container
+        {
+            display: flex;
+
+        }
+        .circle
+        {
+            height: 200px;
+            float:left;
+            width:200px;
+        }
+        #circle-container > div
+        {
+            border-radius: 50%;
+            margin-right: 15px;
+            margin-left:15px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .inner-circle 
+        {
+            height:150px;
+            width:150px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;    
+        }
+        .inner-circle2 
+        {
+            height:80px;
+            width:80px;
+            border-radius: 50%;
+        }
+        .bar
+        {
+            
+             width: 15px;
+            position:absolute;
+            overflow: hidden;
+        }
+        .chart
+        {
+            position:relative;
+            display:block;
+        } 
+        .chart div
+        {
+         bottom:0;
+        }
+        .one
+        {
+         left: 0; 
+         height:calc(100% - 10px);
+        }
+        .two
+        {       
+        left:35px;
+        height:calc(100% - 50px);
+        }
+        .three
+        {
+            left:65px;
+            height:calc(100% - 30px);
+        }
+        .four
+        {
+            left:95px;
+            height:calc(100% - 75px);
+        }
+        .five
+        {
+            left:125px;
+            height:calc(100% - 20px);
+        }
+        .six
+        {
+            left:155px;
+            height:calc(100%  -  125px); 
+        }
+        .line
+        {
+            width: 500px;
+            height: 15px;
+            bottom:0;
+            position: absolute;
+            
+        }
+        #sidebar nav
+        {
+            display:flex;
+            flex-direction: column;
+            align-items: flex-start;
+            padding:15px 30px 30px 30px;
+        }
+        #sidebar nav a.active
+        {
+            color:lightgreen;
+            text-decoration: underline;
+        }
+        #sidebar nav a
+        {
+            color:white;
+            padding:10px;
+        }
+        #sidebar nav a:first-child
+        {
+            padding-top: 0;
+        }
+
