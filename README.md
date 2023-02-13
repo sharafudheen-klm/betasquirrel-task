@@ -7,8 +7,8 @@
 ---
 
 | **commands** |                                   | **Example**     |
-| ------------ | --------------------------------- | --------------- | --- |
-| cd           | change current directory          | cd desktop,cd.. |     |
+| ------------ | --------------------------------- | --------------- |
+| cd           | change current directory          | cd desktop,cd.. |     
 | ls           | list contents of a directory      | ls -a           |
 | pwd          | display current working directory | pwd             |
 | ---          | ---                               | ---             |
