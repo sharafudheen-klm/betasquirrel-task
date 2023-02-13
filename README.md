@@ -6,18 +6,16 @@
 
 ---
 
-| ** commands** |                                   | ** Example **   |
-| ------------- | --------------------------------- | --------------- |
-| cd            | change current directory          | cd desktop,cd.. |
-| ---           | ---                               | ---             |
-| ls            | list contents of a directory      | ls -a           |
-| ---           | ---                               | ---             |
-| pwd           | display current working directory | pwd             |
-| ---           | ---                               | ---             |
-| cat           | display cotents of a file         | cat README.md   |
-| ---           | ---                               | ---             |
-| dir           | create a new directory            | mkdir newfolder |
-| ---           | ---                               | ---             |
+| **commands** |                                   | **Example**     |
+| ------------ | --------------------------------- | --------------- | --- |
+| cd           | change current directory          | cd desktop,cd.. |     |
+| ls           | list contents of a directory      | ls -a           |
+| pwd          | display current working directory | pwd             |
+| ---          | ---                               | ---             |
+| cat          | display cotents of a file         | cat README.md   |
+| ---          | ---                               | ---             |
+| dir          | create a new directory            | mkdir newfolder |
+| ---          | ---                               | ---             |
 
 ## Git commands
 
