@@ -29,4 +29,5 @@
 |6.git pull|fetch add download content from a remote repository|git pull<remote>|
 ## Learning HTML
 ----
-  -[Home](https://www.w3schools.com/html/default.asp)
+  *[Home](https://www.w3schools.com/html/default.asp)
+  *[Introduction](https://www.w3schools.com/html/html_intro.asp)
