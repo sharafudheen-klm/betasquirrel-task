@@ -22,6 +22,8 @@
 | **commands** |                                      | **example**                                                        |
 | ------------ | ------------------------------------ | ------------------------------------------------------------------ |
 | 1.git config | configure git user                   | git config --global "user.name"                                    |
-| ---          | ---                                  | ---                                                                |
 | 2.git clone  | clone a remote git repo to yourlocal | git clone http://github.com/sharafudheen-klm/betasquirrel-task.git |
-| ---          | ---                                  | ---                                                                |
+||3.git add|add your file changes to git|git add.|
+|4.git commit|commit changes to git|git commit -m"internal commit"|
+|5.git push|push your local commits to remote repo|git push origin main|
+|6.git pull|fetch add download content from a remote repository|git pull<remote>|
