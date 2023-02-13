@@ -34,3 +34,14 @@
  -[Editors](https://www.w3schools.com/html/html_editors.asp)</br>
  -[Basics](https://www.w3schools.com/html/html_basic.asp)</br>
  -[Elements](https://www.w3schools.com/html/html_elements.asp)</br>
+ -[Headings](https://www.w3schools.com/html/html_headings.asp)</br>
+ -[Paragraphs](https://www.w3schools.com/html/html_paragraphs.asp)</br>
+ -[Styles](https://www.w3schools.com/html/html_styles.asp)</br>
+ -[Formatting](https://www.w3schools.com/html/html_formatting.asp)</br>
+ -[Quatation(https://www.w3schools.com/html/html_quotation_elements.as</br>
+  -[Comments](https://www.w3schools.com/html/html_comments.asp)</br>
+  -[Colors](https://www.w3schools.com/html/html_colors.asp)</br>
+  -[Css](https://www.w3schools.com/html/html_css.asp)</br>
+   -[Links](https://www.w3schools.com/html/html_links.asp)</br>
+   -[Images](https://www.w3schools.com/html/html_images.asp)</br>
+   -[Favicon](https://www.w3schools.com/html/html_favicon.asp)</br>
